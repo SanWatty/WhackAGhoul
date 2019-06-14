@@ -1,0 +1,33 @@
+#header{
+    width: 100%;
+    height: 20%;
+}
+
+#startGame:hover, #header:hover, #leaderboard:hover{
+    width: 102%;
+}
+
+.center{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+.centerStart{
+    display: block;
+    margin: auto;
+    width: 28%;
+}
+
+.centerButton{
+    display: block;
+    margin: auto;
+    width: 30%;
+}
+
+body{
+    background-image: url(../Images/Tokyo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}

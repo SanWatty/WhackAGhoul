@@ -1,0 +1,17 @@
+@font-face{
+    font-family: Downcome;
+    src: url(../WAM/Fonts/Downcome.ttf.woff);
+}
+
+h1{
+    font-family: Downcome;
+    font-size: 70px;
+    color: white;
+    top: 300px;
+    
+}
+
+body{
+    background-color: black;
+}
+
